@@ -1,0 +1,10 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/Week1/D2_dailychallenge.py
+suggestions for improvement:
+- The submitted code does not address the instructions outlined in the 'Chapter Content/Questions'. It performs unrelated tasks.
+- The first exercise calculates multiples of a number, and the second removes consecutive duplicate characters from a word, neither of which aligns with the string manipulation tasks described in the problem statement.
+Brief justification:
+- correctness: The code is entirely unrelated to the chapter content, which focuses on string length validation, character extraction, string building with loops, and string shuffling. The provided code performs numerical calculations and string filtering, resulting in a 0% correctness score.
+- readability: The code is reasonably readable with clear variable names and comments.
+- performance: The code's performance is acceptable for the given tasks, with no apparent bottlenecks.
+- security: The code doesn't appear to have any major security vulnerabilities for its intended purpose.
+
