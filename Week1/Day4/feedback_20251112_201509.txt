@@ -1,0 +1,10 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/Week1/Day4/D4_dailychallenge_modif.py
+suggestions for improvement:
+- Consider adding validation for price inputs to prevent errors if the user enters non-numeric values or negative numbers, addressing the extra challenges.
+- The main loop could be encapsulated in a `run_coffee_shop()` function as indicated in the instructions for better code organization and reusability.
+Brief justification:
+- correctness: The code accurately implements all the required functions (show_menu, add_item, update_price, delete_item) and the main program loop. It follows the problem description and produces the expected behavior as outlined in the examples. The initial data structure is also correctly initialized as a dictionary. Each function performs its intended task according to the specified requirements. Therefore, the code fulfills all aspects of the problem description.
+- readability: The code is well-structured and easy to follow. Variable names are descriptive. The use of f-strings enhances readability. Some function-level comments could be added to clarify function purposes, but overall, it's quite readable.
+- performance: The code's performance is satisfactory for the given task. The operations performed are basic dictionary operations and input/output, which are generally efficient. No major performance bottlenecks are apparent.
+- security: The code is relatively safe. The use of `float()` to convert the price could potentially raise a `ValueError` if the user enters non-numeric input, which is not explicitly handled. However, there are no obvious vulnerabilities related to code injection or other security risks given the scope of the problem.
+
