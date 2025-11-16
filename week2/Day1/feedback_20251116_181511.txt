@@ -1,0 +1,11 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day1/D1_W2_dailychallenge.py
+suggestions for improvement:
+- Implement the `get_animal_types` method to return a sorted list of animal types.
+- Implement the `get_short_info` method to return a string like 'McDonald's farm has cows, goats and sheeps.'.
+- Upgrade the `add_animal` method to accept `**kwargs` for adding multiple animals at once.
+Brief justification:
+- correctness: The code correctly implements the `Farm` class with `__init__`, `add_animal`, and `get_info` methods as described in the instructions. It accurately manages the animal dictionary and formats the output. However, it's missing the `get_animal_types` and `get_short_info` methods, as well as the `**kwargs` upgrade to `add_animal` for bonus points.
+- readability: The code is well-formatted and easy to understand. Variable names are descriptive, and the logic is straightforward.
+- performance: The code has good performance for the given task. Dictionary lookups and string formatting are efficient.
+- security: The code doesn't have any apparent security vulnerabilities.
+
