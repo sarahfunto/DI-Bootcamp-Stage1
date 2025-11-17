@@ -1,0 +1,11 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/Week1/Day5/w1_miniproject.py
+suggestions for improvement:
+- Consider adding more comments to explain the purpose of each section of the code.
+- The `clear_screen` function might not work on all terminals. Using a more portable method could improve compatibility.
+- The replay logic could be integrated more smoothly into the main game loop.
+Brief justification:
+- correctness: The code accurately implements a Tic Tac Toe game as described in the chapter content. It includes functions for displaying the board, getting player input, checking for a winner, and checking for a tie. The main game loop manages the game flow correctly, switching between players and ending the game when a winner is found or a tie occurs. All requirements are met.
+- readability: The code is generally readable, with well-named functions and variables. However, adding more comments to explain the purpose of each function and section would further improve readability.
+- performance: The code's performance is good for a simple Tic Tac Toe game. It doesn't involve any computationally intensive operations, so the execution speed is more than adequate.
+- security: The code includes input validation to ensure that the player's input is within the valid range and that the chosen cell is empty. This helps prevent errors and potential security issues.
+
