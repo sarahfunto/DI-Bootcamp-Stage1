@@ -1,0 +1,10 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/Week1/D2_excerciesXP.py
+suggestions for improvement:
+- Consider adding comments to delineate each exercise more clearly.
+- In Exercise 4, the list name shadows the built-in type `list`. Choose a more descriptive and unique variable name.
+Brief justification:
+- correctness: The code accurately addresses all exercises, fulfilling the instructions for sets, tuples, lists, loops, and conditionals, as described in the Chapter Content/Questions.  Each exercise's requirements are met completely.
+- readability: The code is generally well-formatted and easy to understand.  Clear variable names are used. Adding more comments would enhance readability further, especially to demarcate the individual exercises.
+- performance: The code demonstrates efficient use of built-in functions and data structures. The time complexity is appropriate for each task.
+- security: The code uses `input()` to gather user data, but it handles the input safely. The name check in Exercise 6 helps avoid potential issues. In exercise 9, input should have error handling for non-numeric age inputs to prevent crashes.
+

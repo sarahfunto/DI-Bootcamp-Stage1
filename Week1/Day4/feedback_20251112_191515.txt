@@ -1,0 +1,13 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/Week1/Day4/D4_exerciceXP.py
+suggestions for improvement:
+- In exercise 1, the `print(display_message)` statement within the `display_message` function will print the function object itself, not the desired string. It should be removed.
+- In exercise 3, one call of the describe_city function uses 'unknwon' rather than 'unknown'.
+- In exercise 4, the print statement in the else block should be modified to  print(f'Fail! Your number: {user_num}, Random number: {computer_num}') for accurate output.
+- In exercise 7, the second function definition overwrites the first. Consider renaming or merging the logic for different scenarios.
+- In exercise 7, the month input from the user is not validated to ensure it's an integer.
+Brief justification:
+- correctness: The code accurately addresses most of the exercises, implementing functions with parameters, default values, random number generation, and conditional logic as described in the chapter content. However, there are a few minor errors as outlined in the feedback. Most significantly, the function overwrites the earlier definition for exercise 7.
+- readability: The code is generally well-formatted and easy to read, with clear function definitions and comments. Meaningful variable names contribute to understanding. However, some adjustments to spacing or naming conventions could enhance readability further.
+- performance: The code demonstrates reasonable performance, as most of the exercises involve simple operations that execute efficiently. There are no apparent performance bottlenecks.
+- security: The code doesn't appear to have significant security concerns. User input is used, but appropriately cast. There's nothing here that introduces vulnerabilities.
+
