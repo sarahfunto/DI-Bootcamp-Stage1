@@ -1,0 +1,10 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/Week1/D3_daily_challenge.py
+suggestions for improvement:
+- In Challenge 2, the data cleaning in the wallet amount is incorrect because it replaces every character by an empty string. Fix it by just replacing the dollar sign.
+- In Challenge 2, ensure that the dictionary values are strings before attempting to replace characters in them.
+Brief justification:
+- correctness: Challenge 1 is correctly implemented as it asks for user input and creates a dictionary with letters as keys and a list of indices as values. Challenge 2 has some issue as the price values contain a dollar sign but it's not deleted. Also there's an incorrect cleaning implementation for the wallet value.
+- readability: The code is generally readable, with clear variable names and comments. However, adding more comments to explain the logic behind certain steps (e.g., the data cleaning process) would enhance readability.
+- performance: The code's performance is efficient for the given tasks. The loops and dictionary operations are generally fast.
+- security: The code doesn't have any major security vulnerabilities, as it doesn't handle sensitive data or interact with external systems in a risky way. However, input validation could be added to handle unexpected input formats.
+
