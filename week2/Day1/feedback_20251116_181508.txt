@@ -1,0 +1,7 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day1/D1_W2_exerciceXP.py
+Brief justification:
+- correctness: The code correctly implements all four exercises as described in the chapter content. Each exercise's steps are followed accurately, demonstrating understanding of classes, objects, methods, and attributes. The `Zoo` class in exercise 4 also implements the bonus requirement using `*args` in `add_animal()` which is great.
+- readability: The code is well-structured and easy to read. Variable names are descriptive and follow conventions. The code is also properly commented, clarifying the purpose of each section. Only minor improvements could be made by adding more spacing in some parts of the code.
+- performance: The code demonstrates good performance. The algorithms used are efficient for the given tasks. The `max` function with a lambda in Exercise 1 is an efficient way to find the oldest cat. The sorting and grouping logic in the `Zoo` class is also reasonably performant for the expected input sizes.
+- security: The code does not handle user input directly, mitigating common security risks such as injection attacks or data validation issues. Therefore, the security score is excellent.
+
