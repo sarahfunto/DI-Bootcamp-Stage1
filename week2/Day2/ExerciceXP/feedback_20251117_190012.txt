@@ -1,0 +1,17 @@
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day2/ExerciceXP/D2_W2_exerciceXP.py
+suggestions for improvement:
+- In Exercise 1, the `Siamese` class should inherit from the `Cat` class. Currently, it's a standalone class, which doesn't fully utilize inheritance as intended.
+- In Exercise 1, the `Pets` class instantiation and `walk` method call are placed inside the class definition, which is incorrect. They should be outside the class.
+- In Exercise 1, the method `__init__` is not named correctly it must be named with 2 underscores in the begining and in the end of the word.
+- In Exercise 3, it's better to receive the name of the dogs instead of instances to follow the instructions.
+- In Exercise 4, the method `__init__` is not named correctly it must be named with 2 underscores in the begining and in the end of the word.
+- In Exercise 4, the instantiation of the class and the method calls are placed inside the class definition, which is incorrect. They should be outside the class.
+- In Exercise 3, the file dog.py has not been provided, therefore it is not possible to import `Dog` from it.
+- In Exercice 3, in the `play` method the argument must be a name of a `Dog` not the instance.
+Correctness: 70%
+-----
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day2/ExerciceXP/dog.py
+suggestions for improvement:
+- No specific feedback.
+Correctness: 100%
+-----
