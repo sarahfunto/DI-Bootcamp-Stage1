@@ -1,0 +1,19 @@
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day5/miniprojectW2/anagram.py
+suggestions for improvement:
+- Consider using a more robust input validation method (e.g., regular expressions) to handle edge cases or unexpected input.
+- The menu presentation could be slightly improved for better user experience (e.g., using a clear formatting style).
+- The code assumes that anagram_checker.py exists in the same directory and contains the necessary AnagramChecker class. Making the dependency explicit and providing error handling if the module is not found would increase robustness.
+Correctness: 100%
+-----
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day5/miniprojectW2/anagram_checker.py
+suggestions for improvement:
+- Consider adding docstrings to the class itself to provide a high-level overview of its purpose.
+- The file path construction could be made more robust to handle cases where the script is run from a different directory.  Using `os.path.abspath` might be beneficial.
+Correctness: 100%
+-----
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day5/miniprojectW2/sowpods.txt
+suggestions for improvement:
+- This submission provides word list data and cannot be assessed for correctness. The task requires implementing code for an anagram checker based on a word list.  This data provides the content of the wordlist file.
+- This is just a data file (a very long list of words). It doesn't contain any code related to the tasks outlined in the prompt, thus having a low score.
+Correctness: 0.0%
+-----
