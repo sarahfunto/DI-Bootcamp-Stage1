@@ -1,0 +1,11 @@
+# excercie 1
+# Answer the following questions:
+
+#     What is a class? a blueprint
+#     What is an instance? a real object
+#     What is encapsulation? limit of attribute
+#     What is abstraction? simplify the object
+#     What is inheritance? created relation with an other class
+#     What is multiple inheritance? created relation in several classes
+#     What is polymorphism? using a class differently for different objects
+#     What is method resolution order or MRO? organisation of classes
