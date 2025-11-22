@@ -1,0 +1,12 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day4/D4_W2_dailychallenge.py
+suggestions for improvement:
+- Implement the `from_file` class method within the `Text` class, as instructed in Step 5.  It's currently being called but not defined within the class.
+- Create the `TextModification` class and its methods (`remove_punctuation`, `remove_stop_words`, `remove_special_characters`) as described in Steps 6-9.  This is currently missing.
+- Add error handling to the `from_file` method to catch potential `FileNotFoundError` exceptions.
+- Ensure that the `from_file` method reads the file content correctly and assigns it to the `self.text` attribute.
+Brief justification:
+- correctness: The code implements `__init__`, `word_frequency`, `most_common_word`, and `unique_words` as requested by Steps 1-4. However, it does not implement the `from_file` class method (Step 5) within the `Text` class, nor does it implement the `TextModification` class or its methods (Steps 6-9), so the solution is incomplete. The call to `Text.from_file` will raise an error because the method is not defined in the class scope.
+- readability: The code is generally well-readable. Some variable names could be more descriptive. The comments are in French which may not be ideal if the primary language of the project is English.
+- performance: The performance is generally acceptable for the given tasks. Using `Counter` from the `collections` module in `most_common_word` could slightly improve performance, especially for large texts, but the current implementation is adequate.
+- security: There are no obvious security vulnerabilities in the provided code. However, file handling in the `from_file` method should consider potential security risks, such as path traversal, although this isn't implemented yet.
+

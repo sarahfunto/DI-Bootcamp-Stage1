@@ -1,0 +1,17 @@
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/day3/excerciceXP/D3_W2_exercicesXP.py
+suggestions for improvement:
+- In Exercise 1, the `__repr__` method can be simplified to directly return the string representation from `__str__`, avoiding redundancy.
+- In Exercise 2, even though there is a correct call for the add_numbers function, there is a piece of code that is commented, so the code has been executed but is not clean
+- In Exercise 4, the date is formatted but the initial date is also printed, just print the good format.
+Correctness: 100%
+-----
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/day3/excerciceXP/exercise_one.py
+suggestions for improvement:
+- Skipping file (too many comments or blank lines).
+Correctness: N/A%
+-----
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/day3/excerciceXP/func.py
+suggestions for improvement:
+- Skipping file (too many comments or blank lines).
+Correctness: N/A%
+-----

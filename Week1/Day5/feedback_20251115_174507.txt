@@ -1,0 +1,12 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/Week1/Day5/D5_dailychllenge.py
+suggestions for improvement:
+- In challenge 1, the problem description states that the words are separated by commas, but the solution uses spaces. Use `.split(',')` instead of `.split()` to correctly split the input string.
+- In challenge 1, consider using list comprehension as suggested in the last section of the instructions.
+- No security concerns were identified.
+- Both solutions are relatively efficient for the given problem sizes.
+Brief justification:
+- correctness: Challenge 2 is completely correct and follows all the instructions. Challenge 1 is almost correct but splits on spaces instead of commas, deviating from the instructions. Therefore, the overall correctness is 80%.
+- readability: The code is well-structured and easy to understand, with clear variable names and comments.
+- performance: The code is performant for the expected input sizes. List comprehensions could be used in Challenge 1 for perhaps minor performance improvements, and greater readability, but the current implementation is good.
+- security: There are no obvious security vulnerabilities in the code.
+

@@ -1,0 +1,10 @@
+URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/Week1/D2_dailychallenge.py
+suggestions for improvement:
+- Consider adding more descriptive variable names for enhanced readability, especially in the second exercise.
+- Add comments to explain the logic behind each section of the code.
+Brief justification:
+- correctness: The code accurately solves both problems outlined in the 'Chapter Content/Questions'. Challenge 1 correctly generates a list of multiples, and Challenge 2 effectively removes consecutive duplicate letters from a string. Both solutions adhere to all instructions and examples provided.
+- readability: The code is generally readable due to its straightforward structure and use of meaningful variable names (e.g., 'number', 'length', 'multiples').  However, adding comments could further enhance understanding. Exercise 2 can benefit from better variable names.
+- performance: The code demonstrates good performance, utilizing simple loops and string manipulation techniques. The algorithms have linear time complexity, which is efficient for the given problem constraints.
+- security: The code is reasonably secure. The use of `int(input())` provides basic input validation for numerical inputs. However, consider adding more robust error handling (e.g., using try-except blocks) to handle invalid input formats.
+
