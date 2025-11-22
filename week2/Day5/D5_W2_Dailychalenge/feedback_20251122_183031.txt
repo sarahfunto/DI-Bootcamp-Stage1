@@ -1,0 +1,11 @@
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day5/D5_W2_Dailychalenge/D5_W2_dailychalenge_exercice1.txt
+suggestions for improvement:
+- Skipping file (too many comments or blank lines).
+Correctness: N/A%
+-----
+URL: URL: https://github.com/sarahfunto/DI-Bootcamp-Stage1/blob/main/week2/Day5/D5_W2_Dailychalenge/D5_W2_dailychallenge.py
+suggestions for improvement:
+- Consider adding docstrings to your classes and methods to improve readability and explain their purpose.
+- The comments are in a language other than English. For better collaboration and wider understanding, consider using English.
+Correctness: 100%
+-----
