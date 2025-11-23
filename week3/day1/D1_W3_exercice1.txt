@@ -1,0 +1,13 @@
+
+
+    What is data analysis?
+    Extraction of data to use it to answer a question or a hypothesis
+
+    Why is data analysis important in modern contexts?
+    Data analysis is important because there is a large amount of data, and it allows us to process it quickly and provide evidence-based, data-driven arguments to answer questions efficiently.
+
+    List and describe three areas where data analysis is applied today.
+    Genetics (gen, CMV)
+    Ecology and modeling the consequences of risky behaviors
+    Public health , exemple : disease prevention
+

@@ -1,0 +1,15 @@
+Reducing Genetic Counseling Wait Times with Data Analysis
+
+1. What is the problem
+A large health system faced a problem: they had a shortage of genetic counselors and a growing number of referrals. This caused very long wait times for patients. To solve this, they partnered with a company called Genome Medical. Through this partnership, they delivered genetic counseling using a hybrid model (in-person + telemedicine). This allowed them to drastically reduce wait times and scale their counseling services in USA. 
+https://www.genomemedical.com/services/genetic-counseling/?_gl=1*1mheodt*_up*MQ..*_gs*MQ..&gclid=CjwKCAiA_orJBhBNEiwABkdmjFXUdwOs11OuT9mtxfLiWu4PZETbR0ECZNzEodC5OxWelQ3egn2sVBoC9XwQAvD_BwE
+
+2. Role of Data Analysis
+Data analysis was central to this solution:
+They collected and analyzed referral data, patient backlog, and staffing levels to understand how many people were waiting and why.
+By analyzing these data, they could model different approaches ( more telehealth, more counselors) and project how wait times would respond.
+The most important question to validate this teleconsultation model is to have data on the number of patients who have undergone a genetic counseling consultation over a given time, which has allowed them to validate the effectiveness of the new hybrid model.
+
+3. Impact
+Without data analysis, it would have been impossible for them to realize how long the waiting times were or to see how to reduce these delays as effectively as possible.
+The goal is to improve access to genetic counseling to prevent personal and family missed opportunities, as these consultations are both a source of information to optimize patient care and to prevent risks within families.
